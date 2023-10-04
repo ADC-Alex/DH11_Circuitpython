@@ -9,3 +9,13 @@ You'll also need the adafruit_dht library for the DHT11 sensor. Make sure you ha
 
 Make sure your connections are correct, and adjust the GPIO pins in the code if needed to match your physical connections. 
 This code will continuously display temperature and humidity readings on the LCD1602 module while handling errors gracefully.
+
+
+
+Here's a table that shows the connections for the Raspberry Pi Pico, DHT11 sensor, and LCD1602 module:
+
+
+<img width="709" alt="Screenshot 2023-10-04 at 2 33 31 PM" src="https://github.com/ADC-Alex/DH11_Circuitpython/assets/144302937/254022ae-a9ba-453e-a7b0-cdb497fa8365">
+
+
+
