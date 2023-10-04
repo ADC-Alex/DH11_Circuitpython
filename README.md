@@ -1,5 +1,5 @@
 # DH11_Circuitpython
-Temperature and Humidity sensor using RaspberryPi Pico HW 
+Temperature and Humidity sensor using RaspberryPi Pico HW. 
 This project was developed using CircuitPython to record temperature and humidity using a DHT11 sensor with a Raspberry Pi Pico and display the data on an LCD1602 module.
 To interface a Raspberry Pi Pico with an LCD1602 module using CircuitPython, you can use the "CircuitPython_CharLCD" library. Make sure you have the library installed on your Pico. 
 You can install it using the Adafruit CircuitPython bundle or by manually downloading the library from the Adafruit CircuitPython library repository.
